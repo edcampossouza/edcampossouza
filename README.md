@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eduardo - @edcampossouza
 - 👀 I’m interested in Web Development, Database Design, Algorithms and Cloud Computing
-- 🌱 I’m currently learning Next.js, AWS Cloud 
+- 🌱 I’m currently learning Angular, Next.js, AWS Cloud 
 - 📫 How to reach me: edcampossouza@gmail.com 
 
 <!---
