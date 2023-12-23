@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eduardo - @edcampossouza
 - 👀 I’m interested in Web Development, Database Design, Algorithms and Cloud Computing
-- 🌱 I’m currently learning Angular, Next.js, AWS Cloud 
+- 🌱 I’m currently learning Svelte, Go, AWS Cloud 
 - 📫 How to reach me: edcampossouza@gmail.com 
 
 Front End Frameworks & Libs
@@ -12,17 +12,17 @@ Back End Frameworks & Libs
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 Infrastructure & DevOps
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-## Languages I ~~speak~~ can code in:
+## Languages:
 
 
-### Fluent:
+### Proficient:
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
